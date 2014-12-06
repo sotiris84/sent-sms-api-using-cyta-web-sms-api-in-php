@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <websmsapi>
+ 	<version>1.0</version>
+ 	<username>YOUR_USERNAME</username>
+ 	<secretkey>YOUR_SECRETKEY</secretkey>
+ 	<recipients>
+ 		<count>1</count>
+ 		<mobiles>
+ 			<m>9XXXXXXX</m>
+ 		</mobiles>
+ 	</recipients>
+ 	<message>Hello from Cyta web sms api</message>
+ 	<language>en</language>
+ </websmsapi>
